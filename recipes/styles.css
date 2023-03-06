@@ -1,0 +1,40 @@
+html{
+    background-color: antiquewhite;
+}
+
+img{
+    width: 360px;
+    height:fit-content;
+    float: right;
+    padding-right: 5%;
+    display: inline-block;
+}
+
+div{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(66, 62, 62);
+    padding-left: 5%;
+}
+
+
+.head{
+    color: rgb(66, 0, 0);
+    text-align: left;
+    font-size: 80px;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    font-weight: bold;
+}
+
+.subhead{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+#description{
+    font-size: 16px;
+    background-color:rgb(255, 252, 240);
+
+}
+
+.list
